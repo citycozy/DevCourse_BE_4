@@ -1,6 +1,6 @@
 # 하이큐(HIQ)
 
-⚙️ 사용 기술
+## ⚙️ 사용 기술
 Backend: Spring Boot, JPA, Spring Security
 Database: MariaDB, Redis
 Real-time: WebSocket, STOMP
